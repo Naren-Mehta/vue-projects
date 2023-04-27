@@ -1,0 +1,15 @@
+12. components/Apps/Stage/StageTimeline.vue
+14. components/Apps/Timeline/DistributionChart.vue
+15. components/Apps/Timeline/Tasks.vue
+17. components/JobsFilter.vue
+20. components/charts/d3HistoChart.vue
+25. views/apps/AppDAGGraph.vue
+
+
+// Need to remove below files (check before deleting)
+src/components/Apps/SparkStreamHome.vue
+src/views/apps/job/sparkJobDetails.vue
+src/components/Apps/Stage/StageDetailsTabPage.vue
+src/components/Apps/Stage/StageQuery.vue
+src/components/Apps/Stage/StageTaskAttempt.vue
+src/components/Apps/Timeline.vue

@@ -1,0 +1,10 @@
+ssh -L localhost:3316:localhost:3316 -L localhost:3308:localhost:3306 -L localhost:3000:localhost:3000 -L localhost:4171:localhost:4171 -L localhost:4020:localhost:4020 -L localhost:4181:localhost:4181 -L localhost:4182:localhost:4182 -L localhost:4183:localhost:4183 -L localhost:4176:localhost:4176 -L localhost:1500:localhost:1500 -L localhost:3007:localhost:3007 -L localhost:5000:localhost:5000 -L localhost:5009:localhost:5009 -L localhost:5001:localhost:5001 -L localhost:2222:localhost:2222 -L localhost:5432:localhost:5432 -L localhost:8191:localhost:8191 -L localhost:4306:localhost:4306 -L localhost:4339:localhost:4339 -i ~/.ssh/topcat.pem root@54.237.232.21
+
+// this is for dataproc 4770
+
+
+Delete node js manually
+
+cd ${}
+
+ssh -L localhost:3316:localhost:3316 -L localhost:3308:localhost:3306 -L localhost:3000:localhost:3000 -L localhost:4171:localhost:4171 -L localhost:4020:localhost:4020 -L localhost:4181:localhost:4181 -L localhost:4182:localhost:4182 -L localhost:4183:localhost:4183 -L localhost:4176:localhost:4176 -L localhost:1500:localhost:1500 -L localhost:3007:localhost:3007 -L localhost:5000:localhost:5000 -L localhost:5009:localhost:5009 -L localhost:5001:localhost:5001 -L localhost:2222:localhost:2222 -L localhost:5432:localhost:5432 -L localhost:8191:localhost:8191 -L localhost:4306:localhost:4306 -L localhost:4339:localhost:4339 -i ~/.ssh/topcat.pem root@3.80.52.44:3000

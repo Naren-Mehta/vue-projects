@@ -1,0 +1,30 @@
+1. components/Apps/AppNavigation.vue
+2. components/Apps/Dag/TasksAttemptsGraph.vue
+3. components/Apps/Session/MinLeftPanel.vue
+4. components/Apps/Session/Trend.vue
+5. components/Apps/Session/TrendSmall.vue
+6. components/Apps/SparkStreamHome.vue
+7. components/Apps/Stage/StageDetailsTabPage.vue
+8. components/Apps/Stage/StageQuery.vue
+9. components/Apps/Stage/StageSelectedTasks.vue
+10. components/Apps/Stage/StageTaskAttempt.vue
+11. components/Apps/Stage/StageTaskBreakDown.vue
+12. components/Apps/Stage/StageTimeline.vue **
+13. components/Apps/Timeline.vue
+14. components/Apps/Timeline/DistributionChart.vue **
+15. components/Apps/Timeline/Tasks.vue **
+16. components/Apps/WfiNavigation.vue
+17. components/JobsFilter.vue
+18. components/JobsTable.vue
+19. components/charts/appsXLTsChart.vue
+20. components/charts/d3HistoChart.vue
+21. components/cluster/scheduleJobs/scheduleJobsMain.vue
+22. components/elasticsearch/elasticsearchGraph.vue
+23. components/logstash/OverviewGraph.vue
+24. components/reports/elements/TaskRunnerSmallFile.vue
+25. views/apps/AppDAGGraph.vue
+26. views/apps/AppMetrics.vue
+27. views/apps/DagDetails.vue
+28. views/kafka/kafkaConsumer.vue
+29. views/kafka/kafkaTopic.vue
+

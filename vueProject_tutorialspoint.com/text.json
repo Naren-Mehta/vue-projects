@@ -1,0 +1,82 @@
+[
+    {
+      "key": "status",
+      "name": "Status",
+      "row_value": "success",
+      "value": "Success"
+    },
+    {
+      "key": "duration",
+      "name": "Duration",
+      "row_value": 3923,
+      "value": "3s "
+    },
+    {
+      "key": "dataio",
+      "name": "Data I/O",
+      "row_value": 20971520,
+      "value": "20.00 MB",
+      "progressbar": {
+        "read": 100,
+        "write": 0,
+        "read_value": "20.00 MB",
+        "write_value": "0 B"
+      }
+    },
+    {
+      "key": "startTime",
+      "name": "Start time",
+      "row_value": "2022-11-15T06:18:43.028Z",
+      "value": "11/15/2022 11:48:43"
+    },
+    {
+      "key": "finishedTime",
+      "name": "End time",
+      "row_value": "2022-11-15T06:18:46.951Z",
+      "value": "11/15/2022 11:48:46"
+    },
+    {
+      "key": "outRowCount",
+      "name": "Query Output Row Count",
+      "row_value": 0,
+      "value": "0",
+      "tooltip": 0
+    },
+    {
+      "key": "elapsedTime",
+      "name": "Slot MS",
+      "row_value": 9811,
+      "value": "9s ",
+      "tooltip": "Slot MS"
+    },
+    {
+      "key": "totBytesBilled",
+      "name": "Billed Bytes",
+      "row_value": 20971520,
+      "value": "20.00 MB",
+      "tooltip": "Billed Bytes"
+    },
+    {
+      "key": "totBytesProc",
+      "name": "Processed Bytes",
+      "row_value": 20971520,
+      "value": "20.00 MB",
+      "tooltip": "Processed Bytes"
+    },
+    {
+      "key": "cents",
+      "name": "Cost in USD",
+      "row_value": 0.0095367431640625,
+      "value": "$ 0.000095",
+      "tooltip": "Cost in Cents: 0.0095367431640625"
+    },
+    {
+      "key": "db",
+      "name": "Database",
+      "row_value": [
+        "unravel-dataproc.test7"
+      ],
+      "value": "unravel-dataproc.test7",
+      "tooltip": "Database unravel-dataproc.test7"
+    }
+  ]

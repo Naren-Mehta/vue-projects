@@ -1,0 +1,1 @@
+npx stylelint "src/components/Apps/AppGantt.vue" --fix
